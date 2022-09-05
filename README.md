@@ -1,7 +1,7 @@
 # Portfolio
 ## P5.js && React
 
-*Portfolio** is a React and P5 application to experiment with p5.js and React
+**Portfolio** is a React and P5 application to experiment with p5.js and React
 
 ## Table of Contents
 <!--ts-->
