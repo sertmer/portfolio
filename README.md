@@ -1,7 +1,7 @@
-# Sketchbook 01
+# Portfolio
 ## P5.js && React
 
-**Sketchbook 01** is a React and P5 application to experiment with p5.js and React p5 wrapper,
+*Portfolio** is a React and P5 application to experiment with p5.js and React
 
 ## Table of Contents
 <!--ts-->
@@ -36,7 +36,3 @@ npm start
 ## Tech Stack
  - [React](https://reactjs.org/)
  - [P5.js](https://p5js.org/)
-
- ## Image Credits
-Arrow Icons made by [Round Icons](https://www.flaticon.com/authors/roundicons) from [flaticons.com](flaticons.com)
-
